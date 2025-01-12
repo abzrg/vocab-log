@@ -1,6 +1,25 @@
 Sun Jan 12 2025
 ---------------
 
-decadent: /d'ekədənt/, ADJ
-decadence: N un-countable
+impinge: (formal) [VERB], V on/upon n, {= impact}
+         {freedoms | hardly | directly, indirectly}
 
+    > ...the cuts in defence spending that have impinged on two of the
+    > region's largest employers.
+
+    > Personal problems experienced by students may impinge on their
+    > work.
+
+impingment: [N, C|U]
+
+decadent: [ADJ] {= corrupt, depraved}
+
+    > ...the excesses and stresses of their decadent rock 'n' roll
+    > lifestyles.
+
+decadence: [N, U]
+
+    > The empire had for years been falling into decadence.
+
+
+# vim: nornu nonu
