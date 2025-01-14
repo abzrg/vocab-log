@@ -1,6 +1,16 @@
 Tue Jan 14 2025
 ---------------
 
+proliferate: (formal) /prəˈlɪfəreɪt/ (V) {= increase rapidly}
+proliferation: (N,U)
+
+    - Computerized data bases are proliferating fast...
+    - Smoking triggers off cell proliferation.
+    - the science fiction magazines which proliferated in the 1920s
+    - Computer courses continue to proliferate.
+    - Dimensionless numbers such as the Reynolds, Knudsen and Mach
+      numbers proliferate in the fluid mechanics literature.
+
 surge: /səːdʒ/ (N, C) {= sudden increase}
 
     - Specialists see various reasons for the recent surge in
