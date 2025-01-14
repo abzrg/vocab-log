@@ -1,6 +1,22 @@
 Tue Jan 14 2025
 ---------------
 
+tome: (formal) /təʊm/ (N, C) {= A tome is a very large, heavy book.}
+
+    - Are there any classic computer science tomes I should be looking
+      out for?
+    - a weighty tome
+
+canon: (formal) /ˈkanən/ (N) {= the writings or other works that are
+                                generally agreed to be good,
+                                important, and worth studying:}
+
+    - He has made it into the canon of English poetry.
+    - She argues that the canon must be opened up to more non-European
+      writers.
+    - People sometimes think the classical music canon finishes around
+      1900.
+
 proliferate: (formal) /prəˈlɪfəreɪt/ (V) {= increase rapidly}
 proliferation: (N,U)
 
