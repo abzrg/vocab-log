@@ -145,4 +145,13 @@ decadence: [N, U]
     > The empire had for years been falling into decadence.
 
 
+---------------------------------------------------------------------
+
+SOURCES
+
+    Google
+    Cambridge Online Dictionary
+    Collins Cobuild
+    ...
+
 # vim: nornu nonu
