@@ -1,3 +1,26 @@
+Mon Jan 20 2025
+---------------
+
+expedient: /ɪksp'iːdiənt/ (N,C; ADJ) {!= inexpedient}
+
+    - Surgical waiting lists were reduced by the simple expedient of
+      striking off all patients awaiting varicose vein operations...
+    - Governments frequently ignore human rights abuses in other
+      countries if it is politically expedient to do so.
+    - This solution is politically expedient but may well cause
+      long-term problems.
+    - We think it is expedient to make a good-will gesture to the new
+      administration.
+
+frivolous: /fr'ɪvələs/ (ADJ) {!= serious} {ADV: frivolously}
+
+    - I just decided I was a bit too frivolous to be a doctor...
+    - The group says it wants politicians to stop wasting public money
+      on what it believes are frivolous projects.
+    - The court discourages frivolous law suits.
+
+
+
 Thu Jan 16 2025
 ---------------
 
