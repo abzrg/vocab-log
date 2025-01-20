@@ -1,2 +1,4 @@
 [{*.txt,README}]
 max_line_length = 70
+indent_style = space
+indent_size = 4
