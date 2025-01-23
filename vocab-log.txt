@@ -251,4 +251,4 @@ SOURCES
     Collins Cobuild
     ...
 
-# vim: nornu nonu
+# vim: nornu nonu spell
