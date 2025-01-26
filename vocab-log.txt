@@ -1,6 +1,9 @@
 Thu Jan 28 2025
 ---------------
 
+cavalry: (n, C) /ˈkæv·əl·ri/ {= the group of soldiers in an army who
+                                fight in tanks, or (especially in the
+                                past) on horses}
 
 repressed: (adj)
 repressive: (adj)
@@ -131,6 +134,7 @@ Mon Jan 20 2025
 ---------------
 
 expedient: /ɪksp'iːdiənt/ (N,C; ADJ) {!= inexpedient}
+                                     {= convenient, advantageous}
 
     - Surgical waiting lists were reduced by the simple expedient of
       striking off all patients awaiting varicose vein operations...
