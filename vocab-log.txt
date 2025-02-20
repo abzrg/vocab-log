@@ -1,13 +1,333 @@
-Thu Jan 28 2025
+Fri Feb 21 2025
 ---------------
 
-cavalry: (n, C) /ˈkæv·əl·ri/ {= the group of soldiers in an army who
+Phrase: Ramp up complexity
+Phrase: self-discoverability of this shit now plummeted to zero
+
+
+Sat Feb 15 2025
+---------------
+
+leg up: (n,sing), (v)  (informal)
+    {= help that you receive that gives you an advantage over other
+    people or makes it possible for you to do something difficult}
+
+    - [give sb/get a leg up]
+      A recent ruling will give terrestrial broadcasters a leg up in
+      competing with satellite radio.
+
+    - [get/have a leg up on sb]
+      The drive to get a leg up on the competition this year is
+      especially intense.
+
+cinch: (n,sing) /s'ɪntʃ/ (informal) {= doddle}
+    {= If you say that something is a cinch, you mean that you think
+    it is very easy to do.}
+
+    - It sounds difficult, but compared to full-time work it was a
+      cinch.
+
+
+Fri Feb 14 2025
+---------------
+
+
+    - "source of endless amusement"
+
+corroborate:
+
+opening_can_of_worms:
+    - He opened a whole can of worms
+
+Fri Feb 8 2025
+--------------
+
+
+incentivize: (v)
+incentive: (n) /ɪns'entɪv/ (incentives) {= inducement}
+    {= If something is an incentive to do something, it encourages you to do it.}
+
+    - There is little or no incentive to adopt such measures...
+
+anachronistic: (adj)
+
+rejoice: (v)
+
+puny: (adj) /pj'uːni/ (punier puniest) {= feeble}
+    {= Someone or something that is puny is very small or weak.}
+
+    - ...a puny, bespectacled youth...
+
+
+
+Wed Feb 5 2025
+--------------
+
+
+regime: (range)
+
+parity:
+
+inundate: (v) /'ɪnʌndeɪt/
+    1. {= swamped by with a lot of letters/demands/requests}
+
+    - Her office was inundated with requests for tickets...
+    - They have inundated me with fan letters.
+    - This semester I want to teach all those concepts and you will be
+      inundated with lots of terminology... but I'm hoping that at the
+      end you gain something.
+
+    2. [passive voice] {= flood}
+
+    - Their neighborhood is being inundated by the rising waters of
+      the Colorado River.
+
+bliss: (n) /blɪs/
+    1. (formal) {= perfect happiness; great joy. }
+    2. (informal) {= reach a state of perfect happiness, oblivious of
+                     everything else.}
+
+    - (1) "she gave a sigh of bliss")
+    - (2) "Josh is just blissed out, always smiling")
+
+
+Tue Feb 4 2025
+--------------
+
+staple: (n)
+
+    - the Fibonacci sequence is a staple of generator examples
+
+
+befit: (v) /bɪf'ɪt/ (formal) (befits befitting befitted)
+       {= If something befits a person or thing, it is suitable or
+          appropriate for them.} {= become}
+
+    - They offered him a post befitting his seniority and
+      experience...
+
+
+Mon Feb 3 2025
+--------------
+
+sink in: (pv)
+
+    - If anything out of this lecture/talk sinks in it's that you
+      should go home and read that paper.
+      https://youtu.be/oV9rvDllKEg
+
+incinerator: (n) /ɪnˈsɪnəreɪtə/
+             {= An incinerator is a furnace for burning waste.}
+
+retort:
+
+haughty:
+
+preach: (v) /priːtʃ/ {= advice, advocate, recommend, counsel}
+        {= earnestly advocate (a belief or course of action).}
+
+    - You should not use an f-string for this things. You should
+      always use the question mark placeholder as we keep preaching.
+    - "my parents have always preached toleration and moderation"
+
+there say: ??
+
+proactively: (adv)
+
+preemptively: (adv)
+preemptive: (adj) /ˌpriːˈemp.tɪv/
+            {= If something is pre-emptive, it is done before other
+               people can act, especially to prevent them from doing
+               something else.}
+
+    - ...we can kind of preemptively infer how this is gonna work.
+    - The Treasury has decided to raise interest rates as a preemptive
+      measure against inflation.
+    - The prime minister authorized a preemptive air strike against
+      the rebels.
+    - We strongly oppose this misguided preemptive war.
+
+honor system: (n) /ˈɒnə sɪstəm/
+               {=  a system of payment or examinations which relies
+                   solely on the honesty of those concerned.}
+
+    - most hotel minibars have worked on an honour system
+    - Previously, we operated an honor system, where employees signed
+      statements of residency but these were not verified.
+    - Customers take products and pay via credit card, check or cash
+      on the honor system.
+
+segue: (v,n-sing) /ˈsɛɡweɪ/
+       {= (v) (in music and film) move without interruption from one
+             piece of music or scene to another.}
+       {= (n) an uninterrupted transition from one piece of music or
+             film scene to another.}
+
+    - (v) allow one song to segue into the next
+    - The piece segues into his solo with the strings.
+    - (n) ...a neat segue into an arrangement of 'Eleanor Rigby'.
+    - He stumbled over words and made awkward segues.
+    - Chapter 9 provides a nice segue into Chapter 10.
+
+
+
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+                               Jan 2025
+.....................................................................
+
+
+Fri Jan 31 2025
+---------------
+
+replenish: (v) /rɪpl'enɪʃ/ (formal) {= refill, recharge, stock up}
+           {= fill (something) up again.}
+           {= restore (a stock or supply) to a former level or
+              condition.}
+
+    - he replenished Justin's glass with mineral water
+    - Three hundred thousand tons of cereals are needed to replenish
+      stocks...
+    - all creatures need sleep to replenish their energies
+
+ruckus: (n,sing) /r'ʌkəs/ (informal)
+        {= If someone or something causes a ruckus, they cause a great
+           deal of noise, argument, or confusion.}
+
+    - This caused such a ruckus all over Japan that they had to change
+      their mind.
+
+
+petal: (n,C) /p'etəl/
+       {= The petals of a flower are the thin coloured or white parts
+          which together form the flower.}
+
+    - ...bowls of dried rose petals.
+
+impertinent: (adj) /ɪmp'ɜːrtɪnənt/ {= impudent, cheeky}
+             {= If someone talks or behaves in a rather impolite and
+                disrespectful way, you can say that they are being
+                impertinent.}
+
+    - Would it be impertinent to ask where exactly you were?...
+
+
+
+Wed Jan 29 2025
+---------------
+
+redeem
+
+
+Tue Jan 28 2025
+---------------
+
+accomplice: (n,C) /ək'ʌmplɪs, AM ək'ɒm-/
+            {= Someone's accomplice is a person who helps them to
+               commit a crime.}
+
+    - The gunman escaped on a motorcycle being ridden by an
+      accomplice.
+
+deserter: (n,C) /dɪz'ɜːrtər/
+          {= A deserter is someone who leaves their job in the armed
+             forces without permission.}
+
+put out: (pv) [MANY MEANING]
+         {= 1. (of an announcement/story) make it known to a lot of
+               people.}
+         {= 2. extinguish fire/candle/cigarette = stop burning}
+         {= 3. turn out (electric) light by pressing the switch
+               != turn on}
+         ...
+
+    - (1) The French news agency put out a statement from the Trade
+      Minister.
+    - (2) Firemen tried to free the injured and put out the blaze...
+    - He lit a half-cigarette and almost immediately put it out again.
+    - (3) He crossed to the bedside table and put out the light.
+
+boast: (n,C)
+boast: (v) /b'oʊst/
+       {= 1. to talk about what you've done or you own very proudly,
+             in a way that other people may find irritating or
+             offensive.
+          2. If someone or something can boast a particular
+             achievement or possession, they have achieved or possess
+             that thing.}
+
+    - (1) Witnesses said Furci boasted that he took part in killing
+      them...
+    - Carol boasted about her costume...
+    - He's boasted of being involved in the arms theft...
+    - We remember our mother's stern instructions not to boast.
+      anyone away...
+    - (n) It is the charity's proud boast that it has never yet turned
+    - (2) The houses will boast the latest energy-saving technology...
+    - (2) What the documents brought to light was the existence of a
+      grand kingdom. Although it seems to have boasted much power in
+      the past, the information on this country has obsessively been
+      erased.
+
+hush up: (pv) {= preventing other people from knowing about something}
+              {= cover up}
+
+    - The scandal has been discussed by the politburo, although the
+      authorities have tried to hush it up...
+    - The Ministry desperately tried to hush up the whole affair.
+
+inscribe: (v) /ɪnskr'aɪb/ {= writing or carving words on an object}
+
+    - Some galleries commemorate donors by inscribing their names on
+      the walls...
+    - ...stone slabs inscribed with Buddhist texts.
+    - On the back I had inscribed the words: 'Here's to Great Ideas!
+      John'...
+    - The book is inscribed: To John Arlott from Laurie Lee.
+
+succumb: (v) /sək'ʌm/ (formal) {= give in}
+         {= If you succumb to temptation or pressure, you do something
+            that you want to do, or that other people want you to do,
+            although you feel it might be wrong}
+
+    - Don't succumb to the temptation to have just one cigarette...
+    - The Minister said his country would never succumb to pressure.
+
+blatantly: (adv)
+blatant: (adj) /bl'eɪtənt/ {= something that is done in an open or
+                              very obvious way}
+
+    - Outsiders will continue to suffer the most blatant
+      discrimination.
+    - ...a blatant attempt to spread the blame for the fiasco...
+    - The elitism was blatant.
+    - ...a blatantly sexist question...
+    - They said the song blatantly encouraged the killing of
+      policemen.
+
+
+Mon Jan 27 2025
+---------------
+
+usher: (v) /'ʌʃər/ {= If you usher someone somewhere, you show them
+                      where they should go, often by going with them.
+    - I ushered him into the office...
+    - They were quickly ushered away.
+
+solicit: (v) /səl'ɪsɪt/ {= If you solicit money, help, support, or an
+                           opinion from someone, you ask them for it.}
+
+  - He's already solicited their support on health care reform...
+  - No tuition was charged by the school, which solicited
+    contributions from the society's members.
+
+cavalry: (n,C) /ˈkæv·əl·ri/ {= the group of soldiers in an army who
                                 fight in tanks, or (especially in the
                                 past) on horses}
 
 repressed: (adj)
 repressive: (adj)
-repress: /rɪˈpres/ (V) {= to prevent feelings, desires, or ideas from
+repress: /rɪˈpres/ (v) {= to prevent feelings, desires, or ideas from
                           being expressed}
 
     - He repressed a sudden desire to cry.
@@ -26,8 +346,9 @@ frenzy: /ˈfrɛnzi/ {= a state or period of uncontrolled excitement or
     - The audience worked themselves into a frenzy as they waited for
       her to come on stage.
 
-fervor (fervour): /ˈfəːvə/ (NOUN) {= intense and passionate feeling.}
-                                  {= passion, zeal}
+fervour:
+fervor: (n) /ˈfəːvə/ {= intense and passionate feeling.}
+                     {= passion, zeal}
 
     - he talked with all the fervour of a new convert
     - The country was swept by patriotic fervor.
@@ -73,8 +394,8 @@ cede: (formal) /s'iːd/ [VERB] {= give up (power, territory)}
 Thu Jan 23 2025
 ---------------
 
-protrude: /prətr'uːd, AM proʊ-/ (VERB) {= stick out}
-protruding: (ADJ)
+protrude: (v) /prətr'uːd, AM proʊ-/ {= stick out}
+protruding: (adj)
 
     - ...a huge round mass of smooth rock protruding from the water...
     - The tip of her tongue was protruding slightly.
@@ -285,9 +606,9 @@ Mon Jan 13 2025
 
 bane: /beɪn/ (N)
 
-    > the telephone was the bane of my life
-    > Keeping noise levels low is the bane of airport administration.
-    > That cat is the bane of my life!
+    - the telephone was the bane of my life
+    - Keeping noise levels low is the bane of airport administration.
+    - That cat is the bane of my life!
 
 
 
@@ -297,22 +618,22 @@ Sun Jan 12 2025
 impinge: (formal) [VERB], V on/upon n, {= impact}
          {freedoms | hardly | directly, indirectly}
 
-    > ...the cuts in defence spending that have impinged on two of the
-    > region's largest employers.
+    - ...the cuts in defence spending that have impinged on two of the
+    - region's largest employers.
 
-    > Personal problems experienced by students may impinge on their
-    > work.
+    - Personal problems experienced by students may impinge on their
+    - work.
 
-impingment: [N, C|U]
+impingment: (N,C,U)
 
 decadent: [ADJ] {= corrupt, depraved}
 
-    > ...the excesses and stresses of their decadent rock 'n' roll
-    > lifestyles.
+    - ...the excesses and stresses of their decadent rock 'n' roll
+    - lifestyles.
 
-decadence: [N, U]
+decadence: (N, U)
 
-    > The empire had for years been falling into decadence.
+    - The empire had for years been falling into decadence.
 
 
 ---------------------------------------------------------------------
@@ -324,4 +645,4 @@ SOURCES
     Collins Cobuild
     ...
 
-# vim: nornu nonu spell
+# vim: nornu nonu spell filetype=wordlist nocursorline
