@@ -1,3 +1,21 @@
+Mon Feb 12 2025
+---------------
+
+fall out of fashion:
+
+    - (python)... but eggs fell out of fashion because they involved
+      weird python path hackery...
+
+Sun Feb 11 2025
+---------------
+
+Not for the faint of heart: (phrase)
+
+    - Writing your own kernel requires an intimate and highly
+      sophisticated understanding of the very foundations of computer
+      technology, and is not for the faint of heart.
+
+
 Fri Feb 21 2025
 ---------------
 
