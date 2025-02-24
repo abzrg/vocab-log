@@ -19,11 +19,11 @@ leg up: (n,sing), (v)  (informal)
     {= help that you receive that gives you an advantage over other
     people or makes it possible for you to do something difficult}
 
-    - [give sb/get a leg up]
+    - 1. [give sb/get a leg up]
       A recent ruling will give terrestrial broadcasters a leg up in
       competing with satellite radio.
 
-    - [get/have a leg up on sb]
+    - 2. [get/have a leg up on sb]
       The drive to get a leg up on the competition this year is
       especially intense.
 
