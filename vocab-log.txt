@@ -1,4 +1,44 @@
-Mon Feb 12 2025
+Wed Feb 26 2025
+---------------
+
+tentatively: (adv)
+tentative: /t'entətɪv/
+    1. (adj) {= Tentative agreements, plans, or arrangements are not
+       definite or certain, but have been made as a first step.}
+       {= provisional}
+       {!= firm}
+
+    - Political leaders have reached a tentative agreement to hold a
+      preparatory conference next month...
+
+    - The next round of talks is tentatively scheduled to begin
+      October 21st in Washington.
+
+    - My tentative scheduler "friend".
+
+    3. (adj) {= If someone is tentative, they are cautious and not
+       very confident because they are uncertain or afraid.}
+       {!= confident}
+
+    - My first attempts at complaining were rather tentative...
+    - Perhaps, he suggested tentatively, they should send for Dr Band.
+
+stray: (v,I) /streɪ/ (+from)
+    1. {= to start thinking or talking about a different subject from
+       the one you should be giving attention to:} {= wander}
+
+    - I think we've strayed too far from our original plan.
+    - Sorry - I've strayed from the subject.
+    - Even with the simplest cases I find my mind straying...
+    - "dog owners are urged not to allow their dogs to stray"
+    - stray dog
+
+    2. {= happening by chance and lacking direction}
+
+    - It was just a stray thought I had while washing the dishes.
+
+
+Mon Feb 23 2025
 ---------------
 
 fall out of fashion:
@@ -6,7 +46,7 @@ fall out of fashion:
     - (python)... but eggs fell out of fashion because they involved
       weird python path hackery...
 
-Sun Feb 11 2025
+Sun Feb 22 2025
 ---------------
 
 Not for the faint of heart: (phrase)
