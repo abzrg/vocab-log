@@ -1,6 +1,24 @@
 Fri Feb 28 2025
 ---------------
 
+cater to someone/something: (pv, I or T)
+                            uk: /ˈkeɪ.tə(r)/
+                            us: /ˈkeɪ.t̬ɚ/
+
+    1. {= to satisfy a need or to provide what is wanted or needed by
+          a particular person or group}
+
+    - Internet shopping caters to every conceivable need.
+    - bars that cater to the lucrative tourist trade
+    - Our magazines cater to professionals such as lawyers and
+      physicians.
+
+    2. {= (often disapproving) to satisfy a need or desire that is
+          unusual or unacceptable}
+
+    - Why should you cater to his every whim?
+    - This legislation simply caters to racism.
+
 To struggle to make ends meet: (phrase) {= to have difficulty earning
     or managing enough money to cover basic living expenses like food,
     rent, and utilities.
@@ -164,7 +182,8 @@ Fri Feb 8 2025
 
 incentivize: (v)
 incentive: (n) /ɪns'entɪv/ (incentives) {= inducement}
-    {= If something is an incentive to do something, it encourages you to do it.}
+    {= If something is an incentive to do something, it encourages you
+    to do it.}
 
     - There is little or no incentive to adopt such measures...
 
