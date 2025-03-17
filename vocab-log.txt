@@ -1,7 +1,15 @@
+Mon Mar 17 2025
+---------------
+
+flaky: (adj) /ˈfleɪki/ {= breaking or separating easily into flakes.}
+
+    - "she ate flaky rolls spread with cherry jam"
+
+
 Mon Mar 10 2025
 ---------------
 
-culminate in/with sth: (v) UK: /ˈkʌl.mɪ.neɪt/ US: /ˈkʌl.mə.neɪt/
+culminate in or with sth: (v) UK: /ˈkʌl.mɪ.neɪt/ US: /ˈkʌl.mə.neɪt/
     {= If an event or series of events culminates in something, it
        ends with it, having developed until it reaches this point}
 
@@ -179,7 +187,7 @@ tentative: /t'entətɪv/
     1. (adj) {= Tentative agreements, plans, or arrangements are not
        definite or certain, but have been made as a first step.}
        {= provisional}
-       {!= firm}
+       {!= firm, != definite}
 
     - Political leaders have reached a tentative agreement to hold a
       preparatory conference next month...
