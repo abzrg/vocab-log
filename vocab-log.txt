@@ -1,3 +1,40 @@
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+                               Mar 2025
+.....................................................................
+
+Mon Mar 31 2025
+---------------
+
+collateral: /kəˈlat(ə)rəl/
+    1. (n,U) (FORMAL)
+       {= Collateral is money or property which is used as a guarantee
+       that someone will repay a loan.}
+       {= security, surety, guarantee, pledge}
+
+    - "she put her house up as collateral for the bank loan"
+    - Most people here cannot borrow from banks because they lack
+      collateral.
+
+    2. (n) {= a person having the same ancestor as another but
+              through a different line.}
+
+    3. (adj) {= additional but subordinate; secondary.}
+
+    - "the collateral meanings of a word"
+
+    4. {= descended from the same stock but by a different line.}
+
+    - "a collateral descendant of Robert Burns"
+
+collateral damage: (phrase)
+    {= is accidental injury to non-military people or damage to
+       non-military buildings which occurs during a military
+       operation.}
+
+    - To minimize collateral damage maximum precision in bombing was
+      required.
+
+
 Fri Mar 28 2025
 ---------------
 
@@ -1009,4 +1046,4 @@ SOURCES
     Collins Cobuild
     ...
 
-# vim: nornu nonu spell filetype=wordlist nocursorline
+# vim: nornu nonu spell nocursorline filetype=text
